@@ -3,7 +3,7 @@
 This repo contains several common big data exercises.
 
 * **MovieRecommender** Uses Amazon movie reviews sample data   [stanford.edu/data/web-Movies.html](http://snap.stanford.edu/data/web-Movies.html) for a simple movie recommender
-* Download the movies.txt.gz file
+* Download the movies.txt.gz file and put in a folder called data in the root of your project
     
  
  
